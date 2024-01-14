@@ -1,6 +1,6 @@
 # Guessing game using C#
 
-This is my first project to learn C#. This is a Guessing game with 3 difficulties. Depending on the user's choice, the randomly generated number will be in a wider range.
+This is my first project to learn C#. A Guessing game with 3 difficulties. Depending on the user's choice, the randomly generated number will be in a wider range.
 
 ![image](https://github.com/CiroJSCH/GuessingGame-CSHARP/assets/104742538/6ef6d60b-3c43-44a9-ae70-c064cbfb7d09)
 
